@@ -9,3 +9,5 @@ git diff (view changes before commit)
 this is a change
 
 this is a change 2
+
+The Music Majors
